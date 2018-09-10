@@ -5,6 +5,7 @@ All of the packages in the `apollo-server` repo are released with the same versi
 ### vNEXT
 
 - Provide ability to specify client info in traces [#1631](https://github.com/apollographql/apollo-server/pull/1631)
+- Core: Allow context to be passed to all GraphQLExtension methods. [PR #1547](https://github.com/apollographql/apollo-server/pull/1547)
 
 ### v2.0.7
 
